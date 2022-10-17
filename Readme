@@ -1,1 +1,7 @@
+CS867 Computer Vision Assignment 1
 
+Implementing Image Classification on a subset of Belgium Traffic Sign Dataset consisting of 10 class labels, using classical computer vision techniques as follows:
+1. SIFT
+2. K Means Clustering
+3. Bag of Visual Words
+4. SVM
