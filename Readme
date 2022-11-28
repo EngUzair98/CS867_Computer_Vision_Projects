@@ -5,3 +5,9 @@ Implementing Image Classification on a subset of Belgium Traffic Sign Dataset co
 2. K Means Clustering
 3. Bag of Visual Words
 4. SVM
+
+CS867 Computer Vision Assignment 2
+
+Implementing Semantic Segmentation using UNet with the foloowing backbones acting as encoders in UNet architecture:
+1. VGG16
+2. VGG19
